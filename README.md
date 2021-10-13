@@ -7,7 +7,8 @@ Created on October 13th 2021
 US Bikeshare Analytics
 
 ### Description
-Describe what your project is about and what it does
+ - This project uses bikeshare data from three US States: Washington, Chicago and New York
+ - A user is able to run the script and see analytics from any of the three states.
 
 ### Files used
 Include the files used
